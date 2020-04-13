@@ -1,4 +1,6 @@
 "# gunshotdetectionsystem" 
+
+
 GunshotDetector(model) contains the trained data sets of gun shot sounds graph.
 Record_sound.py is used to record the sound from the enviroment.
 After the sound is saved, the spectrum is generated using Spectrum_generation.py.
